@@ -11,15 +11,63 @@
   <div class="container">
     <h1>Welcome to the Scammers Oasis!</h1>
     <div>
-      <form id="formOne">
+      <form id="userInfo">
         <div class="firstName">
-          <label for="firstName">Real First name only:</label>
+          <label for="firstName">First Name:</label>
           <input id="firstName" class="form-control" type="text">
         </div>
         <div class="lastName">
-          <label for="lastName">Real Last name only:</label>
+          <label for="lastName">Last Name:</label>
           <input id="lastName" class="form-control" type="text">
         </div>
+        <div class="streetAddress">
+          <label for="streetAddress">Street Address:</label>
+          <input id="streetAddress" class="form-control" type="text">
+        </div>
+        <div class="city">
+          <label for="city">City:</label>
+          <input id="city" class="form-control" type="text">
+        </div>
+        <div class="state">
+          <label for="state">State:</label>
+          <input id="state" class="form-control" type="text">
+        </div>
+        <div class="zipCode">
+          <label for="zipCode">Zip Code:</label>
+          <input id="zipCode" class="form-control" type="text">
+        </div>
+        <label for="shipping">Choose Shipping:</label>
+        <select class="form-control" id="shipping">
+          <option>Express Overnight</option>
+          <option>Priority 2-Day</option>
+          <option>Flat Rate</option>
+        </select>
+        <label for="shipping">Choose Your Planet you are from?:</label>
+        <div class="planets">
+          <label>
+            <input type="radio" name="planets" value="Mars" checked>
+            Mars
+          </label>
+        </div>
+        <div class="planets">
+          <label>
+            <input type="radio" name="planets" value="Jupiter">
+            Jupiter
+          </label>
+        </div>
+        <div class="planets">
+          <label>
+            <input type="radio" name="planets" value="Pluto">
+            Pluto
+          </label>
+        </div>
+        <div class="planets">
+          <label>
+            <input type="radio" name="planets" value="Earth">
+            Earth
+          </label>
+        </div>
+
       </form>
     </div>
 

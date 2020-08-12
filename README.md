@@ -1,12 +1,12 @@
-Scammer Survey
+Online Marketplace
 
-#### _Webpage emulating basic calculator function. 08.10.2020_
+#### _Webpage for Online Scammers Marketplace. 08.10.2020_
 
 #### By _** Cameron Will <cellardoorsolar@aol.com> Sean Wilson <paintballsean@gmail.com>**_
 
 ## Description
 
-_This application is an HTML webpage that utilizes CSS Stylings and JSQuery to emulate a basic calculator_
+_This application is an HTML webpage that utilizes CSS Stylings, Bootstrap, and JSQuery to create an order form and receipt from an online marketplace_
 
 ## Setup/Installation Requirements
 
@@ -19,7 +19,7 @@ _No known bugs at this time._
 
 ## Support and contact details
 
-_For support, contact Cameron Will <cellardoorsolar@aol.com>_
+_For support, contact Sean Wilson <paintballsean@gmail.com> Cameron Will <cellardoorsolar@aol.com>_
 
 ## Technologies Used
 

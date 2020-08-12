@@ -1,0 +1,28 @@
+.zipCode {
+  width: 20%;
+  border-width: 4px;
+}
+
+#shipping {
+  width: 33%;
+}
+
+.firstName {
+  width: 40%;
+}
+
+.lastName {
+  width: 40%;
+}
+
+.streetAddress {
+  width: 50%;
+}
+
+.city {
+  width: 40%;
+}
+
+.state {
+  width: 25%;
+}
